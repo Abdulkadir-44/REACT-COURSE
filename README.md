@@ -27,7 +27,7 @@ Bu kursun içeriği şu şekilde sıralanmıştır:
 
 ### [1-Node.js ve React: Temel Kavramlar](./src/lessons/lesson-1/lesson1.md#Node.jsveReact:TemelKavramlar)
     
-##### [1.1. JavaScript'in Çalışma Ortamları](./src/lessons/lesson-1/lesson1.md#📌Giriş:JavaScript'inÇalışmaOrtamları)
+##### [1.1. JavaScript'in Çalışma Ortamları](./src/lessons/lesson-1/lesson1.md##📌Giriş:JavaScript'inÇalışmaOrtamları)
     
 ##### [1.2. JavaScript Tarayıcıda Nasıl Çalışır? Özellikleri](./src/lessons/lesson-1/lesson1.md#💡JavaScriptTarayıcıdaNasılÇalışır?)
 
