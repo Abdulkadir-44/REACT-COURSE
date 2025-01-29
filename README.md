@@ -25,17 +25,17 @@ Merhaba! Ben **[Abdulkadir Özenç]**, bu kursun eğitmeni ve web geliştirme tu
 
 Bu kursun içeriği şu şekilde sıralanmıştır:
 
-### [1-Node.js ve React: Temel Kavramlar](./src/lessons/lesson-1/lesson1.md#🚀-node.js-ve-react-temel-kavramlar)
+### [1-Node.js ve React: Temel Kavramlar](./src/lessons/lesson-1/lesson1.md#nodejs-ve-react-temel-kavramlar)
     
-##### [1.1. JavaScript'in Çalışma Ortamları](./src/lessons/lesson-1/lesson1.md##📌-girişjavaScriptin-çalışma-ortamları)
+##### [1.1. JavaScript'in Çalışma Ortamları](./src/lessons/lesson-1/lesson1.md#javascriptin-calisma-ortamlari)
     
-##### [1.2. JavaScript Tarayıcıda Nasıl Çalışır? ](./src/lessons/lesson-1/lesson1.md###💡-javaScript-tarayıcıda-nasıl-çalışır)
+##### [1.2. JavaScript Tarayıcıda Nasıl Çalışır?](./src/lessons/lesson-1/lesson1.md#javascript-tarayicida-nasil-calisir)
 
-##### [1.3. React Nedir?](./src/lessons/lesson2.md##⚙Reactnedir?)
-##### [1.4. Node.js Nedir?](./src/lessons/lesson3.md##⚙Node.jsNedir?)
-##### [1.5. Node.js'in Temel Bileşenleri](./src/lessons/lesson4.md##Node.js'inTemelBileşenleri)
-##### [1.6. React ile Node.js'in Bağlantısı Nedir?](./src/lessons/lesson5.md##🔗ReactileNode.js'inBağlantısıNedir?)
-##### [1.7. React Projesinde Node.js Neden Kullanılır?](./src/lessons/lesson6.md###🛠ReactProjesindeNode.jsNedenKullanılır?)
+##### [1.3. React Nedir?](./src/lessons/lesson2.md#react-nedir)
+##### [1.4. Node.js Nedir?](./src/lessons/lesson3.md#nodejs-nedir)
+##### [1.5. Node.js'in Temel Bileşenleri](./src/lessons/lesson4.md#nodejsin-temel-bilesenleri)
+##### [1.6. React ile Node.js'in Bağlantısı Nedir?](./src/lessons/lesson5.md#react-ile-nodejsin-baglantisi-nedir)
+##### [1.7. React Projesinde Node.js Neden Kullanılır?](./src/lessons/lesson6.md#react-projesinde-nodejs-neden-kullanilir)
 
 ---
 
