@@ -31,7 +31,7 @@ Bu kursun içeriği şu şekilde sıralanmıştır:
     
 ##### [1.2. JavaScript Tarayıcıda Nasıl Çalışır?](./src/lessons/lesson-1/lesson1.md#javascript-tarayicida-nasil-calisir)
 
-##### [1.3. React Nedir?](./src/lessons/lesson-1/lesson1.md#-⚙-react-nedir)
+##### [1.3. React Nedir?](./src/lessons/lesson-1/lesson1.md#⚙-react-nedir)
 ##### [1.4. Node.js Nedir?](./src/lessons/lesson-1/lesson1.md#nodejs-nedir)
 ##### [1.5. Node.js'in Temel Bileşenleri](./src/lessons/lesson-1/lesson1.md#nodejsin-temel-bilesenleri)
 ##### [1.6. React ile Node.js'in Bağlantısı Nedir?](./src/lessons/lesson-1/lesson1.md#react-ile-nodejsin-baglantisi-nedir)
