@@ -29,13 +29,13 @@ Bu kursun içeriği şu şekilde sıralanmıştır:
     
 ##### [1.1. JavaScript'in Çalışma Ortamları](./src/lessons/lesson-1/lesson1.md##📌Giriş:JavaScript'inÇalışmaOrtamları)
     
-##### [1.2. JavaScript Tarayıcıda Nasıl Çalışır? Özellikleri](./src/lessons/lesson-1/lesson1.md#💡JavaScriptTarayıcıdaNasılÇalışır?)
+##### [1.2. JavaScript Tarayıcıda Nasıl Çalışır? Özellikleri](./src/lessons/lesson-1/lesson1.md###💡JavaScriptTarayıcıdaNasılÇalışır?)
 
-##### [1.3. React Nedir?](./src/lessons/lesson2.md#⚙Reactnedir?)
-##### [1.4. Node.js Nedir?](./src/lessons/lesson3.md#⚙Node.jsNedir?)
-##### [1.5. Node.js'in Temel Bileşenleri](./src/lessons/lesson4.md#Node.js'inTemelBileşenleri)
-##### [1.6. React ile Node.js'in Bağlantısı Nedir?](./src/lessons/lesson5.md#🔗ReactileNode.js'inBağlantısıNedir?)
-##### [1.7. React Projesinde Node.js Neden Kullanılır?](./src/lessons/lesson6.md#🛠ReactProjesindeNode.jsNedenKullanılır?)
+##### [1.3. React Nedir?](./src/lessons/lesson2.md##⚙Reactnedir?)
+##### [1.4. Node.js Nedir?](./src/lessons/lesson3.md##⚙Node.jsNedir?)
+##### [1.5. Node.js'in Temel Bileşenleri](./src/lessons/lesson4.md##Node.js'inTemelBileşenleri)
+##### [1.6. React ile Node.js'in Bağlantısı Nedir?](./src/lessons/lesson5.md##🔗ReactileNode.js'inBağlantısıNedir?)
+##### [1.7. React Projesinde Node.js Neden Kullanılır?](./src/lessons/lesson6.md###🛠ReactProjesindeNode.jsNedenKullanılır?)
 
 ---
 
