@@ -25,11 +25,11 @@ Merhaba! Ben **[Abdulkadir Özenç]**, bu kursun eğitmeni ve web geliştirme tu
 
 Bu kursun içeriği şu şekilde sıralanmıştır:
 
-### [1-Node.js ve React: Temel Kavramlar](./src/lessons/lesson-1/lesson1.md#Node.jsveReact:TemelKavramlar)
+### [1-Node.js ve React: Temel Kavramlar](./src/lessons/lesson-1/lesson1.md#🚀-node.js-ve-react-temel-kavramlar)
     
-##### [1.1. JavaScript'in Çalışma Ortamları](./src/lessons/lesson-1/lesson1.md##📌Giriş:JavaScript'inÇalışmaOrtamları)
+##### [1.1. JavaScript'in Çalışma Ortamları](./src/lessons/lesson-1/lesson1.md##📌-girişjavaScriptin-çalışma-ortamları)
     
-##### [1.2. JavaScript Tarayıcıda Nasıl Çalışır? Özellikleri](./src/lessons/lesson-1/lesson1.md###💡JavaScriptTarayıcıdaNasılÇalışır?)
+##### [1.2. JavaScript Tarayıcıda Nasıl Çalışır? ](./src/lessons/lesson-1/lesson1.md###💡-javaScript-tarayıcıda-nasıl-çalışır)
 
 ##### [1.3. React Nedir?](./src/lessons/lesson2.md##⚙Reactnedir?)
 ##### [1.4. Node.js Nedir?](./src/lessons/lesson3.md##⚙Node.jsNedir?)
