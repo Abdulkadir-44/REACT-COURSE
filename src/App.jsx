@@ -1,10 +1,11 @@
-import Lesson from './lessons/lesson-1/Lesson1Component'
+import Lesson3 from './lessons/lesson-3/Lesson3Component'
+
 
 function App() {
 
   return (
     <>
-      <Lesson />
+      <Lesson3 />
     </>
   )
 }
