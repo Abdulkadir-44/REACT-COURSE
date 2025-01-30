@@ -1,8 +1,14 @@
-import React from 'react'
+import BasicInformation from "./components/BasicInformation"
+import UseReducerWithTodo from "./components/UseReducerWithTodo"
+
 
 const Lesson7Component = () => {
+
   return (
-    <div>Lesson7Component</div>
+    <>
+      {/* <BasicInformation /> */}
+      {/* <UseReducerWithTodo /> */}
+    </>
   )
 }
 
