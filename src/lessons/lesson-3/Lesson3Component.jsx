@@ -1,6 +1,14 @@
+import { Component } from "./components/Component"
+import Declarative from "./components/Declarative"
+import JSXComponent from "./components/JSXComponent"
+
 const Lesson3Component = () => {
   return (
-    <div>Lesson3.Component</div>
+    <>
+      {/* <Declarative/> */}
+      {/* <Component/> */}
+      {/* <JSXComponent isJsx={true}/> */}
+    </>
   )
 }
 

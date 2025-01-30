@@ -167,3 +167,4 @@ Bugün, React ve Node.js ekosistemine dair temel bilgilere odaklandık. İlk der
 Bu ilk adımlar, ilerleyen derslerde sizi daha derinlemesine konulara taşıyacak ve bu ekosistemle profesyonel projeler geliştirmenize yardımcı olacak. Şimdi, öğrendiklerinizle bir sonraki aşamalara doğru ilerlemeye hazırsınız!
 
 Sonraki derslerde görüşmek üzere! 🚀 
+Bir sonraki ders içeriği [Ortam değişkenleri ve build nedir ?](../lesson-2/lesson2.md)

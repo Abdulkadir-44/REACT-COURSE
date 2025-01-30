@@ -33,6 +33,10 @@ Aşağıda kursun ders başlıkları ve ilgili içeriklere erişim bağlantılar
 
 ### 🌐 [2- Ortam Değişkenleri ve Build Nedir?](./src/lessons/lesson-2/lesson2.md#ortam-degiskenleri-ve-build-nedir)
 
+### 🚀 [2- React Konseptleri?](./src/lessons/lesson-3/lesson3.md#react-konseptleri)
+
+### 🚀 [2- React useState?](./src/lessons/lesson-4/lesson4.md#state-nedir)
+
 ---
 
 ## 🚀 Kurulum ve Dosya Yapısı
@@ -86,12 +90,4 @@ Bu yapı sayesinden herhangi bir dersi incelemek için **o dersin bileşenini im
 Import nedir,bu dosya yapısı nedir gibi sorular aklınızda oluştuysa merak etmeyin ilk derste dosya yapısından bahsediyorum,bu bilgiyi verme amacım eğer kurs içeriğinde yazılan kodları indirmek istiyorsanız bu projenin dosya yapısına hakim olmalısınız onun haricinde zaten kendi projenizi oluşturacağınız için bu projenin dosya yapısını bilmenize gerek yoktur !
 
 ---
-
-## 🎉 Hadi Başlayalım!
-
-React dünyasına adım atmaya hazır mısın?
-
-Eğer herhangi bir sorunuz olursa benimle iletişime geçebilirsiniz. Bu kurs boyunca **uygulamalı ve akıcı bir öğrenme deneyimi** yaşayacağz!
-
-Haydi, başlayalım! 🚀
 
