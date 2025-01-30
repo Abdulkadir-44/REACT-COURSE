@@ -215,4 +215,4 @@ Artık useEffect'i profesyonel şekilde kullanabilir, hangi bağımlılık dizis
 
 Böylece, eğitimin bu bölümünü tamamladık! Bir sonraki adımda daha ileri seviyede React konularına dalmaya hazırız. Harika iş çıkardın! 👏🔥
 
-Sonraki ders içeriği [React userRef ve forvardRef](../lesson-6/lesson6.md)
+Sonraki ders içeriği [React userRef ve forwardRef](../lesson-6/lesson6.md)

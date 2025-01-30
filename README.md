@@ -39,6 +39,8 @@ Aşağıda kursun ders başlıkları ve ilgili içeriklere erişim bağlantılar
 
 ### 🚀 [5- React useEffect ve Component lifecycle?](./src/lessons/lesson-5/lesson5.md#component-lifecycle-nedir)
 
+### 🚀 [5- React useRef ve forwardRef?](./src/lessons/lesson-6/lesson6.md)
+
 ---
 
 ## 🚀 Kurulum ve Dosya Yapısı
