@@ -33,9 +33,11 @@ Aşağıda kursun ders başlıkları ve ilgili içeriklere erişim bağlantılar
 
 ### 🌐 [2- Ortam Değişkenleri ve Build Nedir?](./src/lessons/lesson-2/lesson2.md#ortam-degiskenleri-ve-build-nedir)
 
-### 🚀 [2- React Konseptleri?](./src/lessons/lesson-3/lesson3.md#react-konseptleri)
+### 🚀 [3- React Konseptleri?](./src/lessons/lesson-3/lesson3.md#react-konseptleri)
 
-### 🚀 [2- React useState?](./src/lessons/lesson-4/lesson4.md#state-nedir)
+### 🚀 [4- React useState?](./src/lessons/lesson-4/lesson4.md#state-nedir)
+
+### 🚀 [5- React useEffect ve Component lifecycle?](./src/lessons/lesson-5/lesson5.md#component-lifecycle-nedir)
 
 ---
 
