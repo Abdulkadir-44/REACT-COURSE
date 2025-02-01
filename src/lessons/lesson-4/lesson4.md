@@ -369,3 +369,4 @@ Burada `mesaj` state değişkeni, `MesajGoster` bileşenine **props** olarak akt
 
 Bu kavramları anladıktan sonra artık React'te bileşenler arası veri akışı ve durum yönetimi hakkında daha güçlü bir bilgiye sahip olacaksınız! 🚀
 
+Bir sonraki ders içeriği [React useEffect ve Component lifecycle](../lesson-5/lesson5.md)

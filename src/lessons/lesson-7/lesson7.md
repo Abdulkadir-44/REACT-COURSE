@@ -155,3 +155,5 @@ Bunu **Context API** ile birleştirerek küçük ölçekli bir global state yön
 `useReducer`, özellikle **karmaşık state yönetimi gerektiren bileşenlerde**, **API işlemlerinde** ve **küçük ölçekli global state yönetiminde** çok kullanışlıdır. Redux gibi büyük bir state yönetim kütüphanesi gerektirmeyen uygulamalarda, daha düzenli ve sürdürülebilir kod yazmayı sağlar.
 
 `useState`'e göre daha organize bir yapı sunduğundan dolayı, **çok fazla state değişimi olan uygulamalarda** kullanımı önerilir.
+
+Bir sonraki ders içeriği [React Memoization](../lesson-8/lesson8.md)

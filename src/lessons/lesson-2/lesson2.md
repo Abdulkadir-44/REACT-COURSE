@@ -220,4 +220,4 @@ Eğer projenizde iki ayrı **`.env`** dosyası(**`.env.development , .env.produc
 
 Bu ortam değişkenleri sayesinde, uygulamanızın hangi ortamda çalıştığını kolayca kontrol edebilir ve farklı ortamlara özel yapılandırmalar yapabilirsiniz.
 
-Artık bir sonraki dersimize geçebilliriz [React ile stil işlemleri](../lesson-3/lesson3.md)
+Artık bir sonraki dersimize geçebilliriz [Ortam değişkenleri](../lesson-3/lesson3.md)
