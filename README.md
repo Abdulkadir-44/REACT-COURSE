@@ -43,6 +43,12 @@ Aşağıda kursun ders başlıkları ve ilgili içeriklere erişim bağlantılar
 
 ### 🚀 [7- React useReducer?](./src/lessons/lesson-7/lesson7.md)
 
+### 🚀 [7- React memoization?](./src/lessons/lesson-8/lesson8.md)
+
+### 🚀 [7- React context?](./src/lessons/lesson-9/lesson9.md)
+
+### 🚀 [7- React fetch-API?](./src/lessons/lesson-10/lesson10.md)
+
 ---
 
 ## 🚀 Kurulum ve Dosya Yapısı

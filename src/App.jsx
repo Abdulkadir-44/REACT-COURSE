@@ -1,4 +1,4 @@
-import Lesson8 from './lessons/lesson-8/Lesson8Component'
+import Lesson8 from './lessons/lesson-9/Lesson9Component'
 
 
 function App() {
