@@ -43,11 +43,13 @@ Aşağıda kursun ders başlıkları ve ilgili içeriklere erişim bağlantılar
 
 ### 🚀 [7- React useReducer?](./src/lessons/lesson-7/lesson7.md)
 
-### 🚀 [7- React memoization?](./src/lessons/lesson-8/lesson8.md)
+### 🚀 [8- React memoization?](./src/lessons/lesson-8/lesson8.md)
 
-### 🚀 [7- React context?](./src/lessons/lesson-9/lesson9.md)
+### 🚀 [9- React context?](./src/lessons/lesson-9/lesson9.md)
 
-### 🚀 [7- React fetch-API?](./src/lessons/lesson-10/lesson10.md)
+### 🚀 [10- React fetch-API?](./src/lessons/lesson-10/lesson10.md)
+
+### 🚀 [11- React router-dom(v6) ?](./src/lessons/lesson-11/lesson11.md)
 
 ---
 
